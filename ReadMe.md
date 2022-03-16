@@ -7,6 +7,5 @@
 
 [x] add the data from the response into the page.
 
-
 *API sourece link *  https://dog.ceo/
 API http link:  https://dog.ceo/api/breeds/image/random/3
